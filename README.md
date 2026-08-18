@@ -7,7 +7,9 @@ A fun real-time computer vision project that makes a cat react to your hand gest
 https://youtube.com/shorts/S--ZBGXXfoo?si=gk5viH9vjxMlJcno
 
 👋 Gestures
+
 Gesture	Reaction
+
 ☝️ Pointing Cat
 🤟 Shaka Cat
 🤫 Shush Cat
@@ -15,6 +17,7 @@ Gesture	Reaction
 ✋ Default Cat
 
 🛠️ Tech Stack
+
 Python
 OpenCV
 MediaPipe
@@ -22,12 +25,14 @@ NumPy
 Matplotlib
 
 ⚙️ How It Works
+
 Camera captures your hand.
 MediaPipe detects hand landmarks.
 The program recognizes the gesture.
 The matching cat reaction appears in a separate window.
 
 🚀 How to Run
+
 1. Clone the repository
 git clone https://github.com/Anuja-Shekokar/cat-reaction.git
 cd cat-reaction
