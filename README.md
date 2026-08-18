@@ -38,7 +38,9 @@ python main.py
 
 Allow camera access if prompted.
 
-📁 Project Structure
+## 📁 Project Structure
+
+```text
 cat-reaction/
 ├── main.py
 ├── hand_landmarker.task
@@ -48,7 +50,7 @@ cat-reaction/
     ├── shaka.png
     ├── shush.png
     └── thumbs_up.png
-    
+```
 👩‍💻 Author
 
 Anuja Shekokar 🐱
